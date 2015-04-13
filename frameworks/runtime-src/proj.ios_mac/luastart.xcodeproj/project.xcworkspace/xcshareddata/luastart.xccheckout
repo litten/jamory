@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>25B5D498-1E45-4745-B125-ADA0142B3E2B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>luastart</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8F96A2F477B0411D25427F28F89680FC2DDD471B</key>
+		<string>https://github.com/litten/jamory.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>frameworks/runtime-src/proj.ios_mac/luastart.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8F96A2F477B0411D25427F28F89680FC2DDD471B</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/litten/jamory.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8F96A2F477B0411D25427F28F89680FC2DDD471B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8F96A2F477B0411D25427F28F89680FC2DDD471B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>jamory</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -4,7 +4,7 @@ local MainScene = class("MainScene", function()
     return display.newScene("MainScene")
 end)
 
-local fontPath = "fonts/KozMinPr6N.ttf"
+local fontPath = "fonts/arial.ttf"
 --正确答案的按钮
 local rightBtn
 local rightIdx
@@ -203,10 +203,10 @@ function MainScene:createBtn()
             	self:addScore()
             	
             	local rightMusic = "sound/"..rightIdx..".mp3"
-            	audio.playSound(rightMusic, false)
+            	--audio.playSound(rightMusic, false)
             else
             	self:clearScore()
-            	audio.playSound(MUSIC.errMusic, false)
+            	--audio.playSound(MUSIC.errMusic, false)
  
             	local timeSpace = 0.04
             	draw:runAction(

@@ -31,6 +31,6 @@ MUSIC = {
 }
 require("framework.init")
 -- preload all musics
-for k, v in pairs(MUSIC) do
-    audio.preloadMusic(v)
-end
+-- for k, v in pairs(MUSIC) do
+--     audio.preloadMusic(v)
+-- end
